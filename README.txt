@@ -1,5 +1,5 @@
 Get use to working in .txt files, .py files, and .csv files. They are some of the most useful and efficient file formats available. 
-(Most people will open this file in Notepad or some other text editor, and I recommend you use the 'Word Wrap' function found under Format. I am not sure about other programs, but I presume they automatically wrap words into separate lines or offer a similar tool under formatting or view menu tabs.)
+
 
 For coding, I do NOT recommend basic Notepad. Atom is a good coding editor for a variety of languages (https://atom.io/) and does not take up too much space on your computer. I stick to terminal based work for the python introduction and transition to working in Jupyter Notebooks for the numerical methods lessons.
 
