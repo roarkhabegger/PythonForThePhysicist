@@ -1,3 +1,5 @@
+#PYTHON FOR THE PHYSICIST
+#Lesson01.py
 #Hello Students! I hope this python file finds ready to learn!
 #Put print statements to see what variables are at different parts of the code.
 #Put code in the problem sections to answer the problems in the lesson.
